@@ -106,11 +106,11 @@ analytics:
 author:
   name             : "Noang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "**개발**
+  location         : "south korea"
+  email            : zoehw10101@naver.com
   links:
-    - label: "zoehw10101@gmail.com"
+    - label: 
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
